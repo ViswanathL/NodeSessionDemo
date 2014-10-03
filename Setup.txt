@@ -1,0 +1,22 @@
+Session handling
+----------------
+
+npm install express-session --save
+
+npm install connect-redis
+
+
+Upgrade to express 4.
+--------------------
+
+npm install serve-favicon morgan method-override express-session body-parser multer errorhandler express@latest jade@latest --save
+
+
+
+
+Redis Installation site
+-----------------------
+
+https://github.com/rgl/redis/downloads
+
+Start cmd - net start redis
